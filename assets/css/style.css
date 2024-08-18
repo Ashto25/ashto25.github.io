@@ -1,0 +1,180 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header nav {
+    margin-top: 10px;
+}
+
+header nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+/* Add padding-bottom to the main content area */
+main {
+    padding-bottom: 100px; /* Ensures there is enough space for the footer */
+}
+
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+	gap: 10px;
+}
+
+.post {
+    width: 300px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+	margin-bottom: 10px; /* Reduce the bottom margin to bring the posts closer together */
+    border-radius: 5px; /* Optional: Add rounded corners */
+    background-color: #fff; /* Ensure background color is set */
+}
+
+.post img {
+    width: 100%;
+    height: auto;
+}
+
+.post h2 {
+    padding: 10px;
+    text-align: center;
+}
+
+.post p {
+    padding: 0 10px 10px;
+    color: #555;
+}
+
+.post:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Button styles */
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.btn {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #555;
+}
+
+.resume-header {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #333;
+}
+
+.resume-header h2 {
+    margin: 0;
+    font-size: 36px;
+    color: #333;
+}
+
+.resume-header h2 {
+    margin: 0;
+    font-size: 36px;
+    color: #333;
+}
+
+
+.resume-header p {
+    margin: 10px 0;
+    color: #777;
+}
+
+.resume-content {
+    padding: 20px;
+    background-color: #fff;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Bulleted list in resume content */
+.resume-content ul {
+    line-height: 1.4; /* Adjust this value for more or less spacing */
+    margin-bottom: 1px; /* Adds space below each list item */
+}
+
+
+.resume-content h4 {
+    color: #111;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+}
+
+/* Section titles in resume content */
+.resume-content h3 {
+    color: #33b;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+	padding-top: 15px;
+}
+
+.resume-content p {
+    margin: 10px 0;
+}
+
+
+
+/* Centered container with a raised effect */
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Raised effect */
+    border-radius: 10px; /* Rounded corners */
+}
+
+/* Center the project-post content */
+.project-post {
+    text-align: center;
+}
+
+/* Ensure images are scaled down appropriately */
+.project-post img {
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}

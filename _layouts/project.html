@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    {% include header.html %}
+
+    <main>
+        <div class="container">
+            <article class="project-post">
+                <h2>{{ page.title }}</h2>
+				
+                <div class="project-image">
+                    <img src="{{ page.main_image | relative_url }}" alt="{{ page.title }}">
+                </div>
+                <div class="project-content">
+                    {{ content }}
+                </div>
+                <div class="project-details">
+                    <h3>Project Details</h3>
+                    <p><strong>Materials Used:</strong> {{ page.materials }}</p>
+                    <p><strong>Tools Used:</strong> {{ page.tools }}</p>
+                    <p><strong>Project Duration:</strong> {{ page.duration }}</p>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </footer>
+</body>
+</html>
