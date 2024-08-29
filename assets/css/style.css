@@ -27,26 +27,52 @@ main {
     padding-bottom: 100px; /* Ensures there is enough space for the footer */
 }
 
+/*
 .posts {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+	align-items: center;
 	gap: 10px;
 }
 
-.post {
-    width: 300px;
+.post {	
+    width: 400px;
     margin: 20px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     transition: transform 0.3s ease;
-	margin-bottom: 10px; /* Reduce the bottom margin to bring the posts closer together */
-    border-radius: 5px; /* Optional: Add rounded corners */
-    background-color: #fff; /* Ensure background color is set */
+	margin-bottom: 10px; 
+    border-radius: 5px;
+    background-color: #fff; 
+}
+*/
+
+.posts {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); /* All items same width */
+	grid-auto-rows: min-content; /* Automatically size rows based on content height */
+    grid-auto-flow: dense; /* Fill gaps to make the grid as dense as possible */
+	
+	
 }
 
+.post {
+	flex: 1 1 auto;
+	margin: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+	border-radius: 5px;
+	box-sizing: border-box;
+	overflow: hidden; /* Prevent overflow */
+}
+
+
 .post img {
+	
     width: 100%;
     height: auto;
+	border-radius: 5px;
+	display: block;
 }
 
 .post h2 {
@@ -66,11 +92,14 @@ main {
 footer {
     background-color: #333;
     color: #fff;
-    text-align: center;
-    padding: 10px 0;
+    text-align: right;
+    padding: 0px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+footer p {
+	padding: 0px 15px;
 }
 
 /* Button styles */
@@ -178,3 +207,52 @@ footer {
     margin-bottom: 20px;
     border-radius: 5px;
 }
+
+
+
+@media print {
+    body * {
+        visibility: hidden; /* Hide all elements */
+    }
+
+    .resume-content, .resume-content * {
+        visibility: visible; /* Only make the resume box visible */
+    }
+
+    .resume-content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    header, footer {
+        display: none; /* Ensure header and footer are hidden */
+    }
+}
+
+
+.masonry-with-columns {
+    columns: 3 150px;
+    column-gap: 1rem;
+    div {
+        width: 150px;
+        background: #ffffff00;
+        color: white;
+        margin: 0 1rem 1rem 0;
+        display: inline-block;
+        width: 100%;
+      } 
+  }
+  
+
+  .GalleryContainer {
+    background-color: rgba(255, 255, 255, 0);
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 20px);
+    width: 70%;
+    padding-bottom: 100px;
+  }

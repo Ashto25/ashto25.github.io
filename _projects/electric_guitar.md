@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Building My Own Electric Guitar"
-main_image: /assets/images/electric_guitar.jpg
+main_image: /assets/images/ElectricGuitar_Upright.jpg
 materials: "Mahogany, Cedar, Jatoba, Rosewood"
 tools: "Chisels, Planes, Saws, Clamps, Sandpaper, Wood Glue"
 duration: "6 months"
