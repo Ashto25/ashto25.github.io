@@ -11,32 +11,32 @@ tags: [guitar, woodworking, electric guitar, lutherie]
 
 ## Introduction
 
-Building an acoustic guitar has been a dream of mine for years. I finally took the plunge and started this ambitious woodworking project. Here's a detailed account of the process, from selecting the materials to the final tuning.
+After wanting to learn to play electric guitar, I saw a youtube video on someone making one in a woodshop. This led to me coming up with a design and a plan to create one myself. I watched many hours of videos learning woodworking techniques and specific guitar-making skills. After I felt like I was ready, I started the project.
 
 ## Step 1: Selecting the Wood
 
-The first step was selecting the right wood. I chose **spruce** for the top because of its excellent tonal qualities and **mahogany** for the back and sides due to its warm, rich sound. The neck is made from **mahogany** as well, and I used **rosewood** for the fretboard and **ebony** for the bridge.
+I used leftover cherry wood sourced from my old kitchen cabinents for the main body. I also had leftover jatoba, also known as brazilian cherry, which I used for the fretboard. For the neck, I bought a board of flamed maple from home depot.
 
-![Wood Selection](/assets/images/wood-selection.jpg)
 
 ## Step 2: Shaping the Body
 
-Shaping the guitar body was the most challenging part. I used hand planes and chisels to carve the top and back, making sure to maintain the right thickness throughout. This step required a lot of patience and precision.
+![Shaping the Body](/assets/images/electricBodyOnRouter.jpg)
 
-![Shaping the Body](/assets/images/shaping-body.jpg)
+![Shaping the Neck and Fretboard](/assets/images/electricNeckUnfinished.jpg)
 
 ## Step 3: Assembling the Parts
 
 Once the body and neck were shaped, I assembled the guitar. This involved gluing the top and back to the sides, attaching the neck, and installing the fretboard and bridge.
 
-![Assembly](/assets/images/guitar_assembling.jpg)
+![Assembly](/assets/images/electricUnfinished.jpg)
+
 
 ## Step 4: Finishing Touches
 
-After the assembly, I sanded the entire guitar and applied a finish to protect the wood and bring out its natural beauty. I then added the hardware, including the tuning machines and strings.
+After the assembly, I sanded the entire guitar and painted the body white and neck with a clear coat. I then added the hardware, including the tuning machines and strings. I also lasercut a sheet of blue plastic to create the pickguard cover.
 
-![Finished Guitar](/assets/images/guitar_finished.jpg)
+![Finished Guitar](/assets/images/electricAssembled.jpg)
 
 ## Conclusion
 
-This project was a huge undertaking, but the result is a beautiful, handcrafted acoustic guitar that I'm incredibly proud of. The sound is exactly what I was hoping for, and knowing that I built it myself makes it even more special.
+This project was a great experience and I learned alot about woodworking and creating a project from start to finish. 

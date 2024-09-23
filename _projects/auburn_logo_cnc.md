@@ -22,6 +22,7 @@ In the end I simulated the machining on my computer to ensure there were no issu
 
 I then ran the program on a real block of wood and ended up with a nice finished product that needed minimal sanding.
 
+![Router Running](/assets/images/routerAuburnLogo.jpg)
 
 
 ## Conclusion

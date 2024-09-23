@@ -15,15 +15,15 @@ Building an acoustic guitar has been a dream of mine for years. I finally took t
 
 ## Step 1: Selecting the Wood
 
-The first step was selecting the right wood. I chose **spruce** for the top because of its excellent tonal qualities and **mahogany** for the back and sides due to its warm, rich sound. The neck is made from **mahogany** as well, and I used **rosewood** for the fretboard and **ebony** for the bridge.
+The first step was selecting the right wood. I chose **mahogany** for the top, back, and sides due to its warm, rich sound along with its colorful look. The neck is made from **mahogany** as well, and I used **brazillian cherry** for the fretboard and bridge.
 
-![Wood Selection](/assets/images/wood-selection.jpg)
+![Wood Selection](/assets/images/acousticwood.jpg)
 
 ## Step 2: Shaping the Body
 
-Shaping the guitar body was the most challenging part. I used hand planes and chisels to carve the top and back, making sure to maintain the right thickness throughout. This step required a lot of patience and precision.
+Bending the sides of the guitar was the most difficult part of the build. I had to soak the wood in water, wrap it in foil, and use a clothing iron to steam the wood until it became plyable enough to bend. I would slowly bend the wood into shape using a form I made. This process took a week to get the sides to perfectly hold their shape.
 
-![Shaping the Body](/assets/images/shaping-body.jpg)
+![Shaping the Body](/assets/images/acousticwalls.jpg)
 
 ## Step 3: Assembling the Parts
 
@@ -33,10 +33,10 @@ Once the body and neck were shaped, I assembled the guitar. This involved gluing
 
 ## Step 4: Finishing Touches
 
-After the assembly, I sanded the entire guitar and applied a finish to protect the wood and bring out its natural beauty. I then added the hardware, including the tuning machines and strings.
+After the assembly, I sanded the entire guitar and applied a finish to protect the wood and bring out its natural colors. I then added the hardware, including the tuning machines and strings.
 
 ![Finished Guitar](/assets/images/guitar_finished.jpg)
 
 ## Conclusion
 
-This project was a huge undertaking, but the result is a beautiful, handcrafted acoustic guitar that I'm incredibly proud of. The sound is exactly what I was hoping for, and knowing that I built it myself makes it even more special.
+This project was one of the most difficult I have completed yet. I learned so many skills from this project and now have a beautiful guitar that looks amazing and plays really well.
