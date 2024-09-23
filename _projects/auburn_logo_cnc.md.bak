@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Auburn Logo - CNC"
-main_image: /assets/images/AuburnLogoCNC.jpg
+main_image: /assets/images/AuburnLogoCnc.jpg
 tools: "Python, Numpy"
 duration: "1 week"
 categories: [Machine Learning, Projects]
