@@ -15,9 +15,9 @@ I wanted to learn how to do basic machining and decided to learn how to use the 
 For my project to learn, I am making a gearshift adapter for my dad's manual jeep.
 
 
-![Gearshifter](/assets/images/gearshift_top.jpg)
+![Gearshifter](/assets/images/gearshift_top.JPG)
 
-![Gearshifter](/assets/images/gearshift_dissasembled.jpg)
+![Gearshifter](/assets/images/gearshift_dissasembled.JPG)
 
 ## Making the adapter
 
