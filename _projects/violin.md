@@ -15,12 +15,10 @@ I wanted to learn how to use the CNC more effectively and get better at creating
 There are many complex operations and stockholding setups to be done with this project, which makes it a perfect way to learn the CNC better.
 The project is still work in progress and not finished yet.
 
+![Violin](/assets/images/ViolinUnfinishedBody.JPG)
 
-![Violin](/assets/images/violin_routing.jpg)
-
-![Violin](/assets/images/violin_tail_part.jpg)
+![Violin](/assets/images/ViolinNeckCloseup.JPG)
 
 ![Violin](/assets/images/violin_tail_finished.jpg)
 
-![Violin](/assets/images/violin_top_withtabs.jpg)
-
+![Violin](/assets/images/violin_routing.jpg)
