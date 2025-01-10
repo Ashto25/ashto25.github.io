@@ -14,6 +14,7 @@ tags: []
 I wanted to learn how to do basic machining and decided to learn how to use the manual lathe.
 For my project to learn, I am making a gearshift adapter for my dad's manual jeep.
 
+![Gearshifter](/assets/images/GearshifterInCar.JPG)
 
 ![Gearshifter](/assets/images/gearshift_top.JPG)
 
