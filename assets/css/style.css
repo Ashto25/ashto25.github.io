@@ -64,6 +64,7 @@ main {
 	border-radius: 5px;
 	box-sizing: border-box;
 	overflow: hidden; /* Prevent overflow */
+    height: 100%;
 }
 
 
@@ -208,6 +209,9 @@ footer p {
     border-radius: 5px;
 }
 
+.date {
+    text-align: left;
+}
 
 
 @media print {
@@ -235,6 +239,24 @@ footer p {
 
 
 .masonry-with-columns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    gap: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    
+  }
+  
+  .masonry-with-columns .post {
+    flex: 0 0 calc(33.333% - 4rem);
+    max-width: calc(33.333% - 4rem);
+    box-sizing: border-box;
+    
+  } 
+
+  
+/* .masonry-with-columns {
     columns: 3 150px;
     column-gap: 1rem;
     div {
@@ -245,7 +267,7 @@ footer p {
         display: inline-block;
         width: 100%;
       } 
-  }
+  } */
   
 
   .GalleryContainer {

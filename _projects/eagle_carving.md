@@ -6,6 +6,7 @@ tools: "Python, Numpy"
 duration: "1 week"
 categories: [Machine Learning, Projects]
 tags: [machine learning]
+date: 2023-12-30
 ---
 
 ## The Process

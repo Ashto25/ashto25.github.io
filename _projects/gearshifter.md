@@ -7,6 +7,7 @@ tools: "Manual Lathe"
 duration: "1 months"
 categories: [Projects]
 tags: []
+date: 2025-1-9
 ---
 
 ## Introduction

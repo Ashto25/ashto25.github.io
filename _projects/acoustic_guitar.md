@@ -7,6 +7,7 @@ tools: "Chisels, Planes, Saws, Clamps, Sandpaper, Wood Glue"
 duration: "6 months"
 categories: [Woodworking, Projects]
 tags: [guitar, woodworking, acoustic guitar, lutherie]
+date: 2024-2-24
 ---
 
 ## Introduction

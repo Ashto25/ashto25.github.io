@@ -7,6 +7,7 @@ tools: "Chisels, Planes, Saws, Clamps, Sandpaper, Wood Glue"
 duration: "6 months"
 categories: [Woodworking, Projects]
 tags: [violin, woodworking, acoustic guitar, lutherie]
+date: 2024-12-14
 ---
 
 ![Violin](/assets/images/Geese.JPG)

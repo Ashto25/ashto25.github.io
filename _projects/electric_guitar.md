@@ -7,6 +7,7 @@ tools: "Chisels, Planes, Saws, Clamps, Sandpaper, Wood Glue"
 duration: "6 months"
 categories: [Woodworking, Projects]
 tags: [guitar, woodworking, electric guitar, lutherie]
+date: 2023-11-24
 ---
 
 ## Introduction
@@ -40,3 +41,14 @@ After the assembly, I sanded the entire guitar and painted the body white and ne
 ## Conclusion
 
 This project was a great experience and I learned alot about woodworking and creating a project from start to finish. 
+
+
+
+## Refinishing - May 2025
+
+I decided to revisit the paint on this guitar and redo it.
+
+After stripping off the white paint, I used a laser cutter to engrave a scene into the guitars body and applied a stain to give it a rustic look.
+I then added cool custom horseshoe inlays into the fretboard.
+
+![Refinishing](/assets/images/GuitarRemake.JPG)
