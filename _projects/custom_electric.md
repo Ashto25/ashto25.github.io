@@ -40,7 +40,7 @@ Some hardware on the guitar was custom built using a MAXIEM waterjet to cut stai
 
 I then applied a clear coat of lacquer to both the neck and the guitar body to create a gloss finish.
 
-![Pics](/assets/images/custom_down2.jpg)
+![Pics](/assets/images/custom_down2.JPG)
 
 ![Assembly](/assets/images/custom_down1.JPG)
 
