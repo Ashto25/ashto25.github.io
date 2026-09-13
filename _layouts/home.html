@@ -15,7 +15,13 @@
                 {% for post in sorted_projects %}
                     <div class="post">
                         <a href="{{ post.url | relative_url }}">
-                            <img src="{{ post.main_image | relative_url }}" alt="{{ post.title }}">
+                            <!-- <img src="{{ post.main_image | relative_url }}" alt="{{ post.title }}"> -->
+                             <img 
+                                src="{{ post.main_image | relative_url }}" 
+                                alt="{{ post.title }}"
+                                loading="lazy"
+                                decoding="async"
+                            >
                             <h2>{{ post.title }}</h2>
                             <p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
                         </a>
